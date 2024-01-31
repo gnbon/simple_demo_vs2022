@@ -1,0 +1,12 @@
+Introduction to PDF
+History of PDF
+PDF is a file format used to represent documents in a manner independent of application
+software, hardware, and operating systems. Each PDF file encapsulates a complete description
+of a fixed-layout flat document, including the text, font, graphics, and other information needed
+to display it.
+While Adobe Systems made the PDF specification available for free in 1993, PDF remained a
+proprietary format controlled by Adobe, until July 1, 2008, when it was officially released as an
+open standard and published by the International Organization for Standardization as ISO
+32000-1:2008. In 2008, Adobe published a Public Patent License to ISO 32000-1 granting
+royalty-free rights for all patents owned by Adobe that are necessary to make, use, sell and
+distribute PDF compliant implementations.
